@@ -1,0 +1,6 @@
+//Este es un ejemplo para el repositorio en pseudocodigo.
+
+funcion GetUsers(id:ENTERO):cadena
+codeline 1
+codeline 2
+codeline 3
